@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://esajt.info
+Sitemap: https://esajt.info/sitemap.xml
